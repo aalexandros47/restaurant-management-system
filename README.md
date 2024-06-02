@@ -227,18 +227,23 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contributing
 
-This project was a collaborative effort by the following team members:
+### Contributors
 
-Cong Quyen Pham 
+This project was a collaborative effort by the following team members from Swinburne University of Technology, as part of the Software Engineering Architecture (SWE30003) unit:
 
-Phuthai Hemathulintra 
+- **Cong Quyen Pham**
+  - GitHub: [Cong Quyen Pham](https://github.com/pcqisme)
 
-Arnob Ghosh 
+- **Phuthai Hemathulintra**
+  - GitHub: [Phuthai Hemathulintra](https://github.com/Phuthai2022)
 
-Lohan Thilakarathna [https://github.com/lohanbt]
+- **Arnob Ghosh**
+  - GitHub: [Arnob Ghosh](https://github.com/aalexandros47)
+
+- **Lohan Thilakarathna**
+  - GitHub: [Lohan Thilakarathna](https://github.com/lohanbt)
 
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ---
 
